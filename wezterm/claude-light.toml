@@ -1,0 +1,37 @@
+# Claude Light Terminal Theme for WezTerm
+# Inspired by Anthropic's Claude visual identity
+# https://github.com/marceloduarte/claude-terminal-theme
+
+[colors]
+background = "#faf9f5"
+foreground = "#1f1e1d"
+cursor_bg = "#d97757"
+cursor_fg = "#faf9f5"
+cursor_border = "#d97757"
+selection_bg = "#d9d5cc"
+selection_fg = "#141413"
+
+[colors.ansi]
+black = "#1f1e1d"
+maroon = "#b5443a"
+green = "#5e7340"
+olive = "#a07830"
+navy = "#4a7faf"
+purple = "#8e567e"
+teal = "#438885"
+silver = "#b0aea5"
+
+[colors.brights]
+black = "#8a877f"
+maroon = "#c4564a"
+green = "#788c5d"
+olive = "#c1944a"
+navy = "#6a9bcc"
+purple = "#a87098"
+teal = "#5da3a0"
+white = "#f4f3ee"
+
+[metadata]
+name = "Claude Light"
+author = "marceloduarte"
+origin_url = "https://github.com/marceloduarte/claude-terminal-theme"

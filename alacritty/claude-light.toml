@@ -1,0 +1,35 @@
+# Claude Light Terminal Theme for Alacritty
+# Inspired by Anthropic's Claude visual identity
+# https://github.com/marceloduarte/claude-terminal-theme
+
+[colors.primary]
+background = "#faf9f5"
+foreground = "#1f1e1d"
+
+[colors.cursor]
+cursor = "#d97757"
+text = "#faf9f5"
+
+[colors.selection]
+background = "#d9d5cc"
+text = "#141413"
+
+[colors.normal]
+black = "#1f1e1d"
+red = "#b5443a"
+green = "#5e7340"
+yellow = "#a07830"
+blue = "#4a7faf"
+magenta = "#8e567e"
+cyan = "#438885"
+white = "#b0aea5"
+
+[colors.bright]
+black = "#8a877f"
+red = "#c4564a"
+green = "#788c5d"
+yellow = "#c1944a"
+blue = "#6a9bcc"
+magenta = "#a87098"
+cyan = "#5da3a0"
+white = "#f4f3ee"
