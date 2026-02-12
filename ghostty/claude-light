@@ -3,28 +3,28 @@
 # https://github.com/marceloduarte/claude-terminal-theme
 
 background = #faf9f5
-foreground = #1f1e1d
+foreground = #2a2a28
 cursor-color = #d97757
 cursor-text = #faf9f5
-selection-background = #d9d5cc
+selection-background = #e8e6dc
 selection-foreground = #141413
 
 # Normal colors
-palette = 0=#1f1e1d
-palette = 1=#b5443a
-palette = 2=#5e7340
-palette = 3=#a07830
-palette = 4=#4a7faf
-palette = 5=#8e567e
-palette = 6=#438885
+palette = 0=#141413
+palette = 1=#b8512e
+palette = 2=#5e7245
+palette = 3=#9e7a30
+palette = 4=#4a7ea8
+palette = 5=#7a5c84
+palette = 6=#4a8a78
 palette = 7=#b0aea5
 
 # Bright colors
-palette = 8=#8a877f
-palette = 9=#c4564a
+palette = 8=#b0aea5
+palette = 9=#d97757
 palette = 10=#788c5d
-palette = 11=#c1944a
+palette = 11=#b8944a
 palette = 12=#6a9bcc
-palette = 13=#a87098
-palette = 14=#5da3a0
-palette = 15=#f4f3ee
+palette = 13=#9b7ea4
+palette = 14=#6aaa96
+palette = 15=#141413

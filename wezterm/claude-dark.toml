@@ -1,37 +1,37 @@
-# Claude Light Terminal Theme for WezTerm
+# Claude Dark Terminal Theme for WezTerm
 # Inspired by Anthropic's Claude visual identity
 # https://github.com/marceloduarte/claude-terminal-theme
 
 [colors]
-background = "#faf9f5"
-foreground = "#2a2a28"
+background = "#141413"
+foreground = "#e8e6dc"
 cursor_bg = "#d97757"
-cursor_fg = "#faf9f5"
+cursor_fg = "#141413"
 cursor_border = "#d97757"
-selection_bg = "#e8e6dc"
-selection_fg = "#141413"
+selection_bg = "#383734"
+selection_fg = "#faf9f5"
 
 [colors.ansi]
 black = "#141413"
-maroon = "#b8512e"
-green = "#5e7245"
-olive = "#9e7a30"
-navy = "#4a7ea8"
-purple = "#7a5c84"
-teal = "#4a8a78"
-silver = "#b0aea5"
-
-[colors.brights]
-black = "#b0aea5"
 maroon = "#d97757"
 green = "#788c5d"
-olive = "#b8944a"
+olive = "#c9a96e"
 navy = "#6a9bcc"
 purple = "#9b7ea4"
 teal = "#6aaa96"
-white = "#141413"
+silver = "#e8e6dc"
+
+[colors.brights]
+black = "#66645f"
+maroon = "#e89a7e"
+green = "#92a87a"
+olive = "#d9be8a"
+navy = "#85b3d9"
+purple = "#b298b8"
+teal = "#84bfae"
+white = "#faf9f5"
 
 [metadata]
-name = "Claude Light"
+name = "Claude Dark"
 author = "marceloduarte"
 origin_url = "https://github.com/marceloduarte/claude-terminal-theme"

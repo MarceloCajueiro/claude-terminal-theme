@@ -1,0 +1,23 @@
+{
+  "name": "Claude Dark",
+  "background": "#141413",
+  "foreground": "#e8e6dc",
+  "cursorColor": "#d97757",
+  "selectionBackground": "#383734",
+  "black": "#141413",
+  "red": "#d97757",
+  "green": "#788c5d",
+  "yellow": "#c9a96e",
+  "blue": "#6a9bcc",
+  "purple": "#9b7ea4",
+  "cyan": "#6aaa96",
+  "white": "#e8e6dc",
+  "brightBlack": "#66645f",
+  "brightRed": "#e89a7e",
+  "brightGreen": "#92a87a",
+  "brightYellow": "#d9be8a",
+  "brightBlue": "#85b3d9",
+  "brightPurple": "#b298b8",
+  "brightCyan": "#84bfae",
+  "brightWhite": "#faf9f5"
+}
